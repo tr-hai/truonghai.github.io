@@ -1,0 +1,36 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  
+
+}
+
+a {
+  color: #00B7FF;
+}
+h1 {
+	margin-top: 10px;
+	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+.container {
+	width: 960px;
+    margin-right: auto;
+  margin-left: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.row {
+  margin-left: -10px;
+  margin-right: -10px;
+}
+.normal-video {
+    float: left;
+    	width: 50%;
+
+}
+
+.canvas-video {
+    float: left;
+	width: 50%;
+
+}
